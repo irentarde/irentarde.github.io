@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irentarde.github.io/sitemap.html.gz
+Sitemap: https://irentarde.github.io/app/sitemap.html.gz
+Sitemap: https://irentarde.github.io/assets/sitemap.html.gz
+Sitemap: https://irentarde.github.io/css/sitemap.html.gz
+Sitemap: https://irentarde.github.io/data/sitemap.html.gz
+Sitemap: https://irentarde.github.io/includes/sitemap.html.gz
+Sitemap: https://irentarde.github.io/item/sitemap.html.gz
+Sitemap: https://irentarde.github.io/src/sitemap.html.gz
